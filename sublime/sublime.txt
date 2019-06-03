@@ -1,0 +1,22 @@
+All Autocomplete
+Babel
+BracketHighlighter
+C++ Starting Kit
+Emmet
+ExportHtml
+Find Non ASCII Characters
+FindKeyConflicts
+JSX
+LLVM
+Neon Color Scheme
+Package Control
+PackageResourceViewer
+PowerShell
+Prolog
+Python Improved
+Rust Enhanced
+Scheme
+Select Quoted
+SideBarEnhancements
+SublimeCodeIntel
+Theme - Fox

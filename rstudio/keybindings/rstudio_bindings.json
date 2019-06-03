@@ -1,0 +1,11 @@
+{
+    "commentUncomment" : "Ctrl+/",
+    "devtoolsLoadAll" : "",
+    "expandSelection" : "Ctrl+Shift+M",
+    "expandToMatching" : "|||",
+    "insertPipeOperator" : "Ctrl+Shift+.",
+    "jumpToMatching" : "Ctrl+M",
+    "pasteLastYank" : "",
+    "quickAddNext" : "Ctrl+D",
+    "shrinkSelection" : ""
+}
