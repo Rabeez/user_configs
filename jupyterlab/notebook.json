@@ -1,0 +1,17 @@
+{
+    "codeCellConfig": {
+        "fontFamily": "Cascadia Code PL",
+        "fontSize": 12,
+        "lineHeight": 1.2,
+        "lineNumbers": true
+    },
+    "markdownCellConfig": {
+        "fontFamily": "Cascadia Code PL",
+        "autoClosingBrackets": true,
+        "matchBrackets": true,
+        "fontSize": 12,
+        "lineHeight": 1.2,
+        "lineNumbers": true
+    },
+    "scrollPastEnd": false
+}

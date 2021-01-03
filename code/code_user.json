@@ -5,6 +5,9 @@
     "files.insertFinalNewline": true,
     "editor.showFoldingControls": "always",
     "editor.tabSize": 4,
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Cascadia Code PL",
+    "editor.fontWeight": 350,
     "editor.wordWrap": "on",
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.snippetSuggestions": "top",
@@ -27,5 +30,8 @@
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "matlab.lintOnSave": false
+    "matlab.lintOnSave": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "extensions.ignoreRecommendations": false,
+    "window.zoomLevel": 0
 }

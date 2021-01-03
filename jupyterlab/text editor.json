@@ -1,0 +1,8 @@
+{
+    "editorConfig": {
+        "fontFamily": "Cascadia Code PL",
+        "fontSize": 14,
+        "lineHeight": 1.4,
+        "lineNumbers": true
+    }
+}
