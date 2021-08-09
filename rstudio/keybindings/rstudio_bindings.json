@@ -1,11 +1,12 @@
 {
-    "commentUncomment" : "Ctrl+/",
-    "devtoolsLoadAll" : "",
-    "expandSelection" : "Ctrl+Shift+M",
-    "expandToMatching" : "|||",
-    "insertPipeOperator" : "Ctrl+Shift+.",
-    "jumpToMatching" : "Ctrl+M",
-    "pasteLastYank" : "",
-    "quickAddNext" : "Ctrl+D",
-    "shrinkSelection" : ""
+    "expandToMatching": "|||",
+    "insertPipeOperator": "Ctrl+Shift+.",
+    "expandSelection": "Ctrl+Shift+M",
+    "pasteLastYank": "",
+    "yankAfterCursor": "",
+    "yankBeforeCursor": "",
+    "knitDocument": "",
+    "compilePDF": "",
+    "splitIntoLines": "Ctrl+Shift+L",
+    "switchFocusSourceConsole": "Ctrl+T"
 }
